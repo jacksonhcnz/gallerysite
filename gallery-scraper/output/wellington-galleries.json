@@ -1,0 +1,24 @@
+{
+  "generated_at": "2026-03-24T19:41:51.918Z",
+  "region": "greater-wellington",
+  "galleries": [
+    {
+      "id": "page-galleries",
+      "name": "Page Galleries",
+      "type": [
+        "dealer"
+      ],
+      "contact": {
+        "website": "https://www.pagegalleries.co.nz/exhibitions"
+      },
+      "exhibitions": {
+        "current": [],
+        "upcoming": []
+      },
+      "data_quality": {
+        "gallery_info": "high",
+        "exhibitions": "medium"
+      }
+    }
+  ]
+}
