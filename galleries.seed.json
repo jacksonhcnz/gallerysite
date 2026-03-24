@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Page Galleries",
+    "url": "https://www.pagegalleries.co.nz",
+    "type": ["dealer"],
+    "priority": "high"
+  },
+  {
+    "name": "Peter McLeavey Gallery",
+    "url": "https://www.mcleaveygallery.com",
+    "type": ["dealer"],
+    "priority": "high"
+  },
+  {
+    "name": "Bowen Galleries",
+    "url": "https://bowengalleries.nz",
+    "type": ["dealer"],
+    "priority": "high"
+  },
+  {
+    "name": "Hamish McKay Gallery",
+    "url": "https://hamishmckaygallery.com",
+    "type": ["dealer"],
+    "priority": "high"
+  },
+  {
+    "name": "Jhana Millers",
+    "url": "https://jhanamillers.com",
+    "type": ["dealer"],
+    "priority": "high"
+  },
+  {
+    "name": "Robert Heald Gallery",
+    "url": "https://roberthealdgallery.com",
+    "type": ["dealer"],
+    "priority": "high"
+  },
+  {
+    "name": "PEG Gallery",
+    "url": "https://peggallery.nz",
+    "type": ["dealer"],
+    "priority": "high"
+  },
+  {
+    "name": "Kura Gallery",
+    "url": "https://kuragallery.co.nz",
+    "type": ["dealer"],
+    "priority": "high"
+  },
+  {
+    "name": "Ihorei",
+    "url": "https://ihorei.com",
+    "type": ["dealer"],
+    "priority": "high"
+  },
+  {
+    "name": "Twentysix",
+    "url": "https://twentysixgallery.co.nz",
+    "type": ["dealer"],
+    "priority": "medium"
+  },
+  {
+    "name": "James Blackie Gallery",
+    "url": "https://jamesblackie.co.nz",
+    "type": ["dealer"],
+    "priority": "medium"
+  },
+  {
+    "name": "Webb’s Wellington Gallery",
+    "url": "https://www.webbs.co.nz/wellington-gallery",
+    "type": ["dealer"],
+    "priority": "medium"
+  },
+  {
+    "name": "City Gallery Wellington",
+    "url": "https://citygallery.org.nz",
+    "type": ["public"],
+    "priority": "high"
+  },
+  {
+    "name": "Te Papa",
+    "url": "https://www.tepapa.govt.nz",
+    "type": ["public"],
+    "priority": "high"
+  },
+  {
+    "name": "Adam Art Gallery",
+    "url": "https://www.adamartgallery.nz",
+    "type": ["public"],
+    "priority": "medium"
+  },
+  {
+    "name": "The Dowse Art Museum",
+    "url": "https://dowse.org.nz",
+    "type": ["public"],
+    "priority": "medium"
+  },
+  {
+    "name": "Pātaka Art + Museum",
+    "url": "https://pataka.org.nz",
+    "type": ["public"],
+    "priority": "medium"
+  },
+  {
+    "name": "Enjoy Contemporary Art Space",
+    "url": "https://enjoy.org.nz",
+    "type": ["artist-run"],
+    "priority": "medium"
+  },
+  {
+    "name": "Meanwhile",
+    "url": "https://meanwhilegallery.com",
+    "type": ["artist-run"],
+    "priority": "low"
+  },
+  {
+    "name": "Photospace Gallery",
+    "url": "https://photospacegallery.com",
+    "type": ["artist-run"],
+    "priority": "medium"
+  }
+]

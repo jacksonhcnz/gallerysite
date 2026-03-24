@@ -1,0 +1,54 @@
+{
+  "generated_at": "2026-03-25T10:00:00Z",
+  "region": "greater-wellington",
+
+  "galleries": [
+    {
+      "id": "page-galleries",
+      "name": "Page Galleries",
+      "type": ["dealer"],
+
+      "location": {
+        "address": "42 Victoria Street, Wellington",
+        "lat": -41.2865,
+        "lng": 174.7762
+      },
+
+      "contact": {
+        "website": "https://www.pagegalleries.co.nz"
+      },
+
+      "open_hours": {
+        "tuesday": "10:00-17:30"
+      },
+
+      "status": {
+        "is_open_now": true
+      },
+
+      "artists": [],
+
+      "exhibitions": {
+        "current": [
+          {
+            "title": "Example Show",
+            "artists": ["Artist Name"],
+            "start_date": "2026-03-01",
+            "end_date": "2026-03-28",
+            "source": {
+              "url": "https://...",
+              "method": "scraper"
+            },
+            "confidence": 0.9
+          }
+        ],
+        "upcoming": []
+      },
+
+      "data_quality": {
+        "gallery_info": "high",
+        "exhibitions": "medium"
+      }
+    }
+  ]
+}
